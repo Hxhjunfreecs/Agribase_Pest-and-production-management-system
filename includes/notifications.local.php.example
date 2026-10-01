@@ -1,0 +1,13 @@
+<?php
+
+return [
+    'AGRIBASE_APP_URL' => '',
+    'AGRIBASE_SMTP_HOST' => 'smtp.gmail.com',
+    'AGRIBASE_SMTP_PORT' => '587',
+    'AGRIBASE_SMTP_USERNAME' => '',
+    'AGRIBASE_SMTP_PASSWORD' => '',
+    'AGRIBASE_SMTP_ENCRYPTION' => 'tls',
+    'AGRIBASE_SMTP_FROM_EMAIL' => '',
+    'AGRIBASE_SMTP_FROM_NAME' => 'AgriBase',
+    'AGRIBASE_CAINFO' => ''
+];
