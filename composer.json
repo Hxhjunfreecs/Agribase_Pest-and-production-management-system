@@ -1,0 +1,6 @@
+{
+	"name": "agribase/agribase",
+	"require": {
+		"phpmailer/phpmailer": "^7.1"
+	}
+}
